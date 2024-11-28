@@ -1,0 +1,20 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:recetFr"
+             x:Class="recetFr.Views.MealsPage"
+             Title="Meals">
+    <StackLayout Padding="10">
+        <CollectionView x:Name="MealsList" ItemsSource="{Binding Meals}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Vertical" Margin="5">
+                        <Label Text="{Binding Name}" FontSize="20" />
+                        <Label Text="{Binding Category}" FontSize="14" />
+                        <Button Text="Details" Clicked="OnDetailsClicked" CommandParameter="{Binding MealId}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button Text="Add Meal" Clicked="OnAddMealClicked" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,24 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="recetFr.Views.LoginPage"
+             Title="Inicio de Sesión">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+            <Label Text="Inicio de Sesión" FontSize="24" HorizontalOptions="Center" />
+
+            <Entry Placeholder="Nombre de usuario" x:Name="UsernameEntry" Keyboard="Default" />
+            <Entry Placeholder="Contraseña" x:Name="PasswordEntry" IsPassword="True" />
+
+            <Button Text="Iniciar Sesión"
+                    BackgroundColor="LightGreen"
+                    TextColor="White"
+                    Clicked="OnLoginClicked" />
+
+            <Button Text="¿No tienes cuenta? Regístrate"
+                    BackgroundColor="LightGray"
+                    TextColor="Black"
+                    Clicked="OnNavigateToRegisterClicked" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
