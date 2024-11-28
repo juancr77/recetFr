@@ -1,5 +1,4 @@
-﻿using System.Net.Http.Headers;
-using System.Net.Http.Json;
+﻿using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json;
 using recetFr.Models;
@@ -9,15 +8,17 @@ namespace recetFr.Services
     public class ApiService
     {
         private readonly HttpClient _httpClient;
+        private const string BaseUrl = "https://comida23.somee.com/api/";
 
         public ApiService()
         {
             _httpClient = new HttpClient
             {
-                BaseAddress = new Uri("https://comida23.somee.com/api/")
+                BaseAddress = new Uri(BaseUrl)
             };
         }
 
+        // -------------------------------- Registro de Usuario -------------------------------- //
         public async Task<(bool IsSuccess, string Message)> RegisterUser(User user)
         {
             try
@@ -43,6 +44,7 @@ namespace recetFr.Services
             }
         }
 
+        // -------------------------------- Inicio de Sesión -------------------------------- //
         public async Task<(bool IsSuccess, string Message)> Login(LoginRequest loginRequest)
         {
             try
@@ -68,36 +70,102 @@ namespace recetFr.Services
             }
         }
 
-        //--------------------------------Crud de Mels ---------------------------------------------------------//
+        // -------------------------------- CRUD de Meals -------------------------------- //
         public async Task<List<Meal>> GetAllMealsAsync()
         {
-            return await _httpClient.GetFromJsonAsync<List<Meal>>($"{BaseUrl}");
+            try
+            {
+                var meals = await _httpClient.GetFromJsonAsync<List<Meal>>("MelsControllerApi");
+                return meals ?? new List<Meal>();
+            }
+            catch
+            {
+                return new List<Meal>(); // Retornar lista vacía si ocurre un error.
+            }
         }
 
-        public async Task<Meal> GetMealByIdAsync(int id)
+        public async Task<Meal?> GetMealByIdAsync(int id)
         {
-            return await _httpClient.GetFromJsonAsync<Meal>($"{BaseUrl}/{id}");
+            try
+            {
+                return await _httpClient.GetFromJsonAsync<Meal>($"MelsControllerApi/{id}");
+            }
+            catch
+            {
+                return null; // Retornar null si ocurre un error.
+            }
         }
 
-        public async Task<bool> CreateMealAsync(Meal meal)
+        public async Task<(bool IsSuccess, string Message)> CreateMealAsync(Meal meal)
         {
-            var content = new StringContent(JsonConvert.SerializeObject(meal), Encoding.UTF8, "application/json");
-            var response = await _httpClient.PostAsync(BaseUrl, content);
-            return response.IsSuccessStatusCode;
+            try
+            {
+                var json = JsonSerializer.Serialize(meal);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                var response = await _httpClient.PostAsync("MelsControllerApi", content);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    return (true, "Comida creada exitosamente");
+                }
+                else
+                {
+                    var errorContent = await response.Content.ReadAsStringAsync();
+                    return (false, $"Error al crear la comida: {response.StatusCode} - {errorContent}");
+                }
+            }
+            catch (Exception ex)
+            {
+                return (false, $"Excepción: {ex.Message}");
+            }
         }
 
-        public async Task<bool> UpdateMealAsync(int id, Meal meal)
+        public async Task<(bool IsSuccess, string Message)> UpdateMealAsync(int id, Meal meal)
         {
-            var content = new StringContent(JsonConvert.SerializeObject(meal), Encoding.UTF8, "application/json");
-            var response = await _httpClient.PutAsync($"{BaseUrl}/{id}", content);
-            return response.IsSuccessStatusCode;
+            try
+            {
+                var json = JsonSerializer.Serialize(meal);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                var response = await _httpClient.PutAsync($"MelsControllerApi/{id}", content);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    return (true, "Comida actualizada exitosamente");
+                }
+                else
+                {
+                    var errorContent = await response.Content.ReadAsStringAsync();
+                    return (false, $"Error al actualizar la comida: {response.StatusCode} - {errorContent}");
+                }
+            }
+            catch (Exception ex)
+            {
+                return (false, $"Excepción: {ex.Message}");
+            }
         }
 
-        public async Task<bool> DeleteMealAsync(int id)
+        public async Task<(bool IsSuccess, string Message)> DeleteMealAsync(int id)
         {
-            var response = await _httpClient.DeleteAsync($"{BaseUrl}/{id}");
-            return response.IsSuccessStatusCode;
-        }
+            try
+            {
+                var response = await _httpClient.DeleteAsync($"MelsControllerApi/{id}");
 
+                if (response.IsSuccessStatusCode)
+                {
+                    return (true, "Comida eliminada exitosamente");
+                }
+                else
+                {
+                    var errorContent = await response.Content.ReadAsStringAsync();
+                    return (false, $"Error al eliminar la comida: {response.StatusCode} - {errorContent}");
+                }
+            }
+            catch (Exception ex)
+            {
+                return (false, $"Excepción: {ex.Message}");
+            }
+        }
     }
 }

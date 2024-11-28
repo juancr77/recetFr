@@ -42,6 +42,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Resources.Styles.S
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/recetFr/recetFr/Views/AddMealPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Views.AddMealPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddMealPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddMealPage.xaml
+
+[C:/recetFr/recetFr/Views/EditMealPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Views.EditMealPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditMealPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditMealPage.xaml
+
 [C:/recetFr/recetFr/Views/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Views.HomePage.xaml

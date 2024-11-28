@@ -21,18 +21,44 @@ namespace recetFr.Views
             MealsList.ItemsSource = Meals;
         }
 
-        private async void OnDetailsClicked(object sender, EventArgs e)
+        private async void OnAddMealClicked(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("AddMealPage");
+        }
+
+        private async void OnEditClicked(object sender, EventArgs e)
         {
             var button = (Button)sender;
             var mealId = (int)button.CommandParameter;
-            var meal = await _apiService.GetMealByIdAsync(mealId);
 
-            await DisplayAlert("Meal Details", $"Name: {meal.Name}\nCategory: {meal.Category}", "OK");
+            await Shell.Current.GoToAsync($"{nameof(EditMealPage)}?id={mealId}");
         }
 
-        private async void OnAddMealClicked(object sender, EventArgs e)
+        private async void OnDeleteClicked(object sender, EventArgs e)
         {
-            // Navega a una página para crear una nueva comida
+            var button = (Button)sender;
+            var mealId = (int)button.CommandParameter;
+
+            var confirm = await DisplayAlert("Confirm", "Are you sure you want to delete this meal?", "Yes", "No");
+            if (confirm)
+            {
+                var result = await _apiService.DeleteMealAsync(mealId);
+                if (result.IsSuccess)
+                {
+                    await DisplayAlert("Success", "Meal deleted successfully!", "OK");
+                    LoadMeals(); // Recargar lista
+                }
+                else
+                {
+                    await DisplayAlert("Error", result.Message, "OK");
+                }
+            }
+        }
+
+        private async void OnRefreshClicked(object sender, EventArgs e)
+        {
+            await DisplayAlert("Refreshing", "Updating the meal list...", "OK");
+            LoadMeals(); // Recargar la lista de comidas
         }
     }
 }

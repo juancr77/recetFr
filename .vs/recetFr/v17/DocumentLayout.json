@@ -3,36 +3,63 @@
   "WorkspaceRootPath": "C:\\recetFr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\mealspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\mealspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\mealspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\mealspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\mealspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\mealspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jio\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.72\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\addmealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\addmealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\recetFr\\recetFr\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recetFr\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\editmealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\editmealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\editmealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\editmealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\addmealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\addmealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|solutionrelative:recetfr\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A160159-F54B-48A6-B796-1107C9C3FA38}|recetFr\\recetFr.csproj|c:\\recetfr\\recetfr\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +89,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,58 +97,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\HomePage.xaml",
-              "RelativeDocumentMoniker": "recetFr\\Views\\HomePage.xaml",
-              "ToolTip": "C:\\recetFr\\recetFr\\Views\\HomePage.xaml",
-              "RelativeToolTip": "recetFr\\Views\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T20:02:57.13Z",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Maui.Controls.targets",
+              "DocumentMoniker": "C:\\Users\\Jio\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.72\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeDocumentMoniker": "..\\Users\\Jio\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.72\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ToolTip": "C:\\Users\\Jio\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.72\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeToolTip": "..\\Users\\Jio\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.72\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwKgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-28T20:40:49.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "EditMealPage.xaml",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\EditMealPage.xaml",
+              "RelativeDocumentMoniker": "recetFr\\Views\\EditMealPage.xaml",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\EditMealPage.xaml",
+              "RelativeToolTip": "recetFr\\Views\\EditMealPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T20:18:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MealsPage.xaml.cs",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\MealsPage.xaml.cs",
               "RelativeDocumentMoniker": "recetFr\\Views\\MealsPage.xaml.cs",
               "ToolTip": "C:\\recetFr\\recetFr\\Views\\MealsPage.xaml.cs",
               "RelativeToolTip": "recetFr\\Views\\MealsPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T20:00:53.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MealsPage.xaml",
-              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\MealsPage.xaml",
-              "RelativeDocumentMoniker": "recetFr\\Views\\MealsPage.xaml",
-              "ToolTip": "C:\\recetFr\\recetFr\\Views\\MealsPage.xaml",
-              "RelativeToolTip": "recetFr\\Views\\MealsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T20:00:31.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "recetFr\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml",
-              "RelativeToolTip": "recetFr\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T18:26:51.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RegisterPage.xaml.cs",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\RegisterPage.xaml.cs",
               "RelativeDocumentMoniker": "recetFr\\Views\\RegisterPage.xaml.cs",
@@ -129,37 +143,24 @@
               "RelativeToolTip": "recetFr\\Views\\RegisterPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:22:45.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T18:22:45.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\recetFr\\recetFr\\AppShell.xaml",
-              "RelativeDocumentMoniker": "recetFr\\AppShell.xaml",
-              "ToolTip": "C:\\recetFr\\recetFr\\AppShell.xaml",
-              "RelativeToolTip": "recetFr\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MealsPage.xaml",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\MealsPage.xaml",
+              "RelativeDocumentMoniker": "recetFr\\Views\\MealsPage.xaml",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\MealsPage.xaml",
+              "RelativeToolTip": "recetFr\\Views\\MealsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T18:27:29.168Z",
+              "WhenOpened": "2024-11-28T20:00:31.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "recetFr\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml.cs",
-              "RelativeToolTip": "recetFr\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:26:54.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "RegisterPage.xaml",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\RegisterPage.xaml",
               "RelativeDocumentMoniker": "recetFr\\Views\\RegisterPage.xaml",
@@ -172,7 +173,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddMealPage.xaml",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\AddMealPage.xaml",
+              "RelativeDocumentMoniker": "recetFr\\Views\\AddMealPage.xaml",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\AddMealPage.xaml",
+              "RelativeToolTip": "recetFr\\Views\\AddMealPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T20:19:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMealPage.xaml.cs",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\AddMealPage.xaml.cs",
+              "RelativeDocumentMoniker": "recetFr\\Views\\AddMealPage.xaml.cs",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\AddMealPage.xaml.cs",
+              "RelativeToolTip": "recetFr\\Views\\AddMealPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:20:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "recetFr\\AppShell.xaml.cs",
+              "ToolTip": "C:\\recetFr\\recetFr\\AppShell.xaml.cs",
+              "RelativeToolTip": "recetFr\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:28:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditMealPage.xaml.cs",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\EditMealPage.xaml.cs",
+              "RelativeDocumentMoniker": "recetFr\\Views\\EditMealPage.xaml.cs",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\EditMealPage.xaml.cs",
+              "RelativeToolTip": "recetFr\\Views\\EditMealPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:20:59.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\AppShell.xaml",
+              "RelativeDocumentMoniker": "recetFr\\AppShell.xaml",
+              "ToolTip": "C:\\recetFr\\recetFr\\AppShell.xaml",
+              "RelativeToolTip": "recetFr\\AppShell.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T18:27:29.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "recetFr\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\recetFr\\recetFr\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "recetFr\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:23:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "recetFr\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\HomePage.xaml",
+              "RelativeToolTip": "recetFr\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T20:02:57.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "recetFr\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "recetFr\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T18:26:51.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "recetFr\\Services\\ApiService.cs",
+              "ToolTip": "C:\\recetFr\\recetFr\\Services\\ApiService.cs",
+              "RelativeToolTip": "recetFr\\Services\\ApiService.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAA1wKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:18:08.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "recetFr\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\recetFr\\recetFr\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "recetFr\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:26:54.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Meal.cs",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Models\\Meal.cs",
               "RelativeDocumentMoniker": "recetFr\\Models\\Meal.cs",
@@ -184,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Models\\LoginResponse.cs",
               "RelativeDocumentMoniker": "recetFr\\Models\\LoginResponse.cs",
@@ -196,19 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\recetFr\\recetFr\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "recetFr\\Services\\ApiService.cs",
-              "ToolTip": "C:\\recetFr\\recetFr\\Services\\ApiService.cs",
-              "RelativeToolTip": "recetFr\\Services\\ApiService.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:18:08.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "recetFr\\Models\\LoginRequest.cs",
@@ -220,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\recetFr\\recetFr\\Models\\User.cs",
               "RelativeDocumentMoniker": "recetFr\\Models\\User.cs",

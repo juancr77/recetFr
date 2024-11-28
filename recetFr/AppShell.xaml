@@ -7,19 +7,22 @@
     Shell.FlyoutBehavior="Disabled"
     Title="recetFr">
 
-    <!-- Login Page -->
+    <!-- Meals List Page -->
     <ShellContent
-        Title="Login"
-        ContentTemplate="{DataTemplate local:LoginPage}"
-        Route="LoginPage" />
+        Title="Meals"
+        ContentTemplate="{DataTemplate local:MealsPage}"
+        Route="MealsPage" />
 
-    <!-- Home Page with Tabs -->
-    <TabBar>
-        <ShellContent
-            Title="Home"
-            Icon="home_icon.png"
-            ContentTemplate="{DataTemplate local:HomePage}" />
+    <!-- Edit Meal Page -->
+    <ShellContent
+        Title="Edit Meal"
+        ContentTemplate="{DataTemplate local:EditMealPage}"
+        Route="EditMealPage" />
 
-        
-    </TabBar>
+    <!-- Add Meal Page -->
+    <ShellContent
+        Title="Add Meal"
+        ContentTemplate="{DataTemplate local:AddMealPage}"
+        Route="AddMealPage" />
+
 </Shell>

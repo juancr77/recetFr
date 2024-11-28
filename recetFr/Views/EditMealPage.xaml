@@ -1,0 +1,15 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="recetFr.Views.EditMealPage"
+             Title="Edit Meal">
+    <StackLayout Padding="10">
+        <Entry x:Name="NameEntry" Placeholder="Name" />
+        <Entry x:Name="CategoryEntry" Placeholder="Category" />
+        <Entry x:Name="AreaEntry" Placeholder="Area" />
+        <Editor x:Name="IngredientsEditor" Placeholder="Ingredients" HeightRequest="100" />
+        <Entry x:Name="PreparationTimeEntry" Placeholder="Preparation Time (minutes)" Keyboard="Numeric" />
+        <Entry x:Name="CookingTimeEntry" Placeholder="Cooking Time (minutes)" Keyboard="Numeric" />
+        <Editor x:Name="InstructionsEditor" Placeholder="Instructions" HeightRequest="100" />
+        <Button Text="Save Changes" Clicked="OnSaveChangesClicked" />
+    </StackLayout>
+</ContentPage>
