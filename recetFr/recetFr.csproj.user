@@ -21,6 +21,9 @@
     <MauiXaml Update="Views\MealsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\MealsSearchPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\RegisterPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

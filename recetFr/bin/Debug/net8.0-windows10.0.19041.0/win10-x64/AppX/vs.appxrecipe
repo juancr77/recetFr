@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-28T20:45:40.445</Modified>
+      <Modified>2024-11-29T00:06:30.650</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-28T20:23:30.566</Modified>
+      <Modified>2024-11-28T23:46:34.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.runtimeconfig.json">
       <PackagePath>recetFr.runtimeconfig.json</PackagePath>
-      <Modified>2024-11-28T20:14:06.166</Modified>
+      <Modified>2024-11-28T23:46:33.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.dll">
       <PackagePath>recetFr.dll</PackagePath>
-      <Modified>2024-11-28T20:45:39.560</Modified>
+      <Modified>2024-11-29T00:06:29.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>recetFr.exe</PackagePath>
-      <Modified>2024-11-28T20:45:39.573</Modified>
+      <Modified>2024-11-29T00:06:29.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:27:56.575</Modified>
+      <Modified>2024-11-28T23:46:29.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:27:56.627</Modified>
+      <Modified>2024-11-28T23:46:29.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:27:56.680</Modified>
+      <Modified>2024-11-28T23:46:29.255</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:27:56.749</Modified>
+      <Modified>2024-11-28T23:46:29.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:27:56.990</Modified>
+      <Modified>2024-11-28T23:46:29.541</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,211 +84,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-11-28T19:28:01.103</Modified>
+      <Modified>2024-11-28T23:46:31.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.082</Modified>
+      <Modified>2024-11-28T23:46:31.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.081</Modified>
+      <Modified>2024-11-28T23:46:31.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.080</Modified>
+      <Modified>2024-11-28T23:46:31.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.080</Modified>
+      <Modified>2024-11-28T23:46:31.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.079</Modified>
+      <Modified>2024-11-28T23:46:31.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.094</Modified>
+      <Modified>2024-11-28T23:46:31.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.093</Modified>
+      <Modified>2024-11-28T23:46:31.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.091</Modified>
+      <Modified>2024-11-28T23:46:31.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.092</Modified>
+      <Modified>2024-11-28T23:46:31.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.092</Modified>
+      <Modified>2024-11-28T23:46:31.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.096</Modified>
+      <Modified>2024-11-28T23:46:31.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.095</Modified>
+      <Modified>2024-11-28T23:46:31.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.094</Modified>
+      <Modified>2024-11-28T23:46:31.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.095</Modified>
+      <Modified>2024-11-28T23:46:31.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.095</Modified>
+      <Modified>2024-11-28T23:46:31.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.102</Modified>
+      <Modified>2024-11-28T23:46:31.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.102</Modified>
+      <Modified>2024-11-28T23:46:31.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.101</Modified>
+      <Modified>2024-11-28T23:46:31.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.101</Modified>
+      <Modified>2024-11-28T23:46:31.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.100</Modified>
+      <Modified>2024-11-28T23:46:31.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.100</Modified>
+      <Modified>2024-11-28T23:46:31.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.099</Modified>
+      <Modified>2024-11-28T23:46:31.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.096</Modified>
+      <Modified>2024-11-28T23:46:31.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.098</Modified>
+      <Modified>2024-11-28T23:46:31.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.098</Modified>
+      <Modified>2024-11-28T23:46:31.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.086</Modified>
+      <Modified>2024-11-28T23:46:31.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.086</Modified>
+      <Modified>2024-11-28T23:46:31.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.085</Modified>
+      <Modified>2024-11-28T23:46:31.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.085</Modified>
+      <Modified>2024-11-28T23:46:31.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.084</Modified>
+      <Modified>2024-11-28T23:46:31.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.089</Modified>
+      <Modified>2024-11-28T23:46:31.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.088</Modified>
+      <Modified>2024-11-28T23:46:31.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.088</Modified>
+      <Modified>2024-11-28T23:46:31.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.087</Modified>
+      <Modified>2024-11-28T23:46:31.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.087</Modified>
+      <Modified>2024-11-28T23:46:31.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.091</Modified>
+      <Modified>2024-11-28T23:46:31.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.091</Modified>
+      <Modified>2024-11-28T23:46:31.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.090</Modified>
+      <Modified>2024-11-28T23:46:31.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.090</Modified>
+      <Modified>2024-11-28T23:46:31.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.089</Modified>
+      <Modified>2024-11-28T23:46:31.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.084</Modified>
+      <Modified>2024-11-28T23:46:31.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.083</Modified>
+      <Modified>2024-11-28T23:46:31.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.083</Modified>
+      <Modified>2024-11-28T23:46:31.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.083</Modified>
+      <Modified>2024-11-28T23:46:31.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.082</Modified>
+      <Modified>2024-11-28T23:46:31.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.079</Modified>
+      <Modified>2024-11-28T23:46:31.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.078</Modified>
+      <Modified>2024-11-28T23:46:31.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.078</Modified>
+      <Modified>2024-11-28T23:46:31.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.078</Modified>
+      <Modified>2024-11-28T23:46:31.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-11-28T19:28:01.077</Modified>
+      <Modified>2024-11-28T23:46:31.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.deps.json">
       <PackagePath>recetFr.deps.json</PackagePath>
-      <Modified>2024-11-28T20:23:30.000</Modified>
+      <Modified>2024-11-28T23:46:33.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jio\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

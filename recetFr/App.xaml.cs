@@ -1,4 +1,5 @@
-﻿namespace recetFr
+﻿
+namespace recetFr
 {
     public partial class App : Application
     {
@@ -7,6 +8,7 @@
             InitializeComponent();
 
             MainPage = new AppShell();
+
         }
     }
 }

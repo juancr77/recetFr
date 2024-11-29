@@ -1,0 +1,19 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="recetFr.Views.MealsSearchPage"
+             Title="Buscar Platillos">
+    <VerticalStackLayout Padding="10">
+        <Entry x:Name="SearchEntry"
+               Placeholder="Escribe el nombre del platillo..." />
+        <Button Text="Buscar"
+                Clicked="OnSearchButtonClicked" />
+        <ListView x:Name="MealsListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding strMeal}" 
+                              Detail="{Binding strCategory}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,15 +1,3 @@
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.csproj.AssemblyReference.cache
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
-C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.GeneratedMSBuildEditorConfig.editorconfig
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.exe
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.deps.json
@@ -50,6 +38,7 @@ C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Wind
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -88,6 +77,18 @@ C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Grap
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.csproj.AssemblyReference.cache
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\recetFr.GeneratedMSBuildEditorConfig.editorconfig
 C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
 C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
 C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
@@ -176,4 +177,3 @@ C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\recetFr\recetFr\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\recetFr\recetFr\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll

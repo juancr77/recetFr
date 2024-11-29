@@ -1,23 +1,39 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="recetFr.Views.LoginPage"
-             Title="Inicio de Sesión">
+             Title="Login">
 
     <ScrollView>
         <StackLayout Padding="20" Spacing="15">
-            <Label Text="Inicio de Sesión" FontSize="24" HorizontalOptions="Center" />
+            <Label Text="Inicio de Sesión" 
+                   FontSize="24" 
+                   HorizontalOptions="Center" 
+                   TextColor="#2C3E50" />
 
-            <Entry Placeholder="Nombre de usuario" x:Name="UsernameEntry" Keyboard="Default" />
-            <Entry Placeholder="Contraseña" x:Name="PasswordEntry" IsPassword="True" />
+            <Entry Placeholder="Nombre de usuario" 
+                   x:Name="UsernameEntry" 
+                   Keyboard="Default" 
+                   BackgroundColor="#ECF0F1" 
+                   TextColor="#34495E" 
+                   PlaceholderColor="#7F8C8D" />
+
+            <Entry Placeholder="Contraseña" 
+                   x:Name="PasswordEntry" 
+                   IsPassword="True" 
+                   BackgroundColor="#ECF0F1" 
+                   TextColor="#34495E" 
+                   PlaceholderColor="#7F8C8D" />
 
             <Button Text="Iniciar Sesión"
-                    BackgroundColor="LightGreen"
+                    BackgroundColor="#1ABC9C"
                     TextColor="White"
+                    CornerRadius="10"
                     Clicked="OnLoginClicked" />
 
-            <Button Text="¿No tienes cuenta? Regístrate"
-                    BackgroundColor="LightGray"
-                    TextColor="Black"
+            <Button Text="Registrarse"
+                    BackgroundColor="#BDC3C7"
+                    TextColor="#2C3E50"
+                    CornerRadius="10"
                     Clicked="OnNavigateToRegisterClicked" />
         </StackLayout>
     </ScrollView>

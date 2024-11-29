@@ -8,12 +8,25 @@
             <Label Text="Registro de Usuario" FontSize="24" HorizontalOptions="Center" />
 
             <Entry Placeholder="Nombre de usuario" x:Name="UsernameEntry" Keyboard="Default" />
+            <Label Text="* Nombre de usuario es requerido" TextColor="Red" IsVisible="false" x:Name="UsernameErrorLabel" />
+
             <Entry Placeholder="Correo electrónico" x:Name="EmailEntry" Keyboard="Email" />
+            <Label Text="* Correo electrónico no es válido" TextColor="Red" IsVisible="false" x:Name="EmailErrorLabel" />
+
             <Entry Placeholder="Contraseña" x:Name="PasswordEntry" IsPassword="True" />
+            <Label Text="* Contraseña es requerida" TextColor="Red" IsVisible="false" x:Name="PasswordErrorLabel" />
+
             <Entry Placeholder="Nombre completo" x:Name="FullNameEntry" />
+            <Label Text="* Nombre completo es requerido" TextColor="Red" IsVisible="false" x:Name="FullNameErrorLabel" />
+
             <Entry Placeholder="Comida favorita" x:Name="FavoriteFoodEntry" />
+            <Label Text="* Comida favorita es requerida" TextColor="Red" IsVisible="false" x:Name="FavoriteFoodErrorLabel" />
+
             <Entry Placeholder="Ciudad" x:Name="CityEntry" />
+            <Label Text="* Ciudad es requerida" TextColor="Red" IsVisible="false" x:Name="CityErrorLabel" />
+
             <Entry Placeholder="País" x:Name="CountryEntry" />
+            <Label Text="* País es requerido" TextColor="Red" IsVisible="false" x:Name="CountryErrorLabel" />
 
             <Button Text="Registrar" BackgroundColor="LightBlue" TextColor="White" Clicked="OnRegisterClicked" />
         </StackLayout>

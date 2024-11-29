@@ -167,5 +167,13 @@ namespace recetFr.Services
                 return (false, $"Excepción: {ex.Message}");
             }
         }
+
+        public async Task<List<Comida>> SearchMealByName(string name)
+        {
+            var response = await _httpClient.GetFromJsonAsync<ComidaResponse>($"Meals/search?name={name}");
+            return response?.Meals ?? new List<Comida>();
+        }
+
+        
     }
 }

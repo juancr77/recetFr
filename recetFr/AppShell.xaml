@@ -1,28 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+
 <Shell
     x:Class="recetFr.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:recetFr.Views"
-    Shell.FlyoutBehavior="Disabled"
+    Shell.FlyoutBehavior="Flyout"
     Title="recetFr">
+  
 
-    <!-- Meals List Page -->
-    <ShellContent
-        Title="Meals"
-        ContentTemplate="{DataTemplate local:MealsPage}"
-        Route="MealsPage" />
+    <TabBar>
+        <ShellContent Title="Login" Route="LoginPage" ContentTemplate="{DataTemplate local:LoginPage}" />
+        <!-- Página principal -->
+        <ShellContent Title="Inicio" ContentTemplate="{DataTemplate local:HomePage}" />
 
-    <!-- Edit Meal Page -->
-    <ShellContent
-        Title="Edit Meal"
-        ContentTemplate="{DataTemplate local:EditMealPage}"
-        Route="EditMealPage" />
+        <!-- Página de comidas -->
+        <ShellContent Title="Comidas" ContentTemplate="{DataTemplate local:MealsPage}" />
 
-    <!-- Add Meal Page -->
-    <ShellContent
-        Title="Add Meal"
-        ContentTemplate="{DataTemplate local:AddMealPage}"
-        Route="AddMealPage" />
+        <!-- Página para agregar comidas -->
+        <ShellContent Title="Agregar Comida" ContentTemplate="{DataTemplate local:AddMealPage}" />
 
+        <!-- Página de búsqueda de comidas -->
+        <ShellContent Title="Buscar" ContentTemplate="{DataTemplate local:MealsSearchPage}" />
+    </TabBar>
 </Shell>

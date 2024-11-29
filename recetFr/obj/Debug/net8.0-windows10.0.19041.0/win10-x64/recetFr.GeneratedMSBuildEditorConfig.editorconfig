@@ -72,6 +72,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Views.MealsPage.xa
 build_metadata.AdditionalFiles.TargetPath = Views\MealsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\MealsPage.xaml
 
+[C:/recetFr/recetFr/Views/MealsSearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Views.MealsSearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MealsSearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MealsSearchPage.xaml
+
 [C:/recetFr/recetFr/Views/RegisterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = recetFr.Views.RegisterPage.xaml
